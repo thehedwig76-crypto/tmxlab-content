@@ -3,6 +3,12 @@ name: Threads auto post
 on:
   schedule:
     - cron: "*/15 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/threads_post.py"
+      - ".github/workflows/threads-post.yml"
+      - "threads/posts.json"
   workflow_dispatch:
     inputs:
       mode:
@@ -34,7 +40,7 @@ jobs:
       - name: Post yang dah sampai masa
         env:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
-          MODE: ${{ github.event.inputs.mode || 'post' }}
+          MODE: ${{ github.event_name == 'push' && 'check' || github.event.inputs.mode || 'post' }}
         run: python3 scripts/threads_post.py
 
       - name: Simpan rekod

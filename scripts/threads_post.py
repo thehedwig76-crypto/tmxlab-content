@@ -56,9 +56,10 @@ def main():
         print("THREADS_ACCESS_TOKEN belum diset. Skip.")
         return 0
 
+    # Always verify the token first so a bad/expired token fails the run (visible in Actions).
+    me = call("GET", "me", {"fields": "id,username", "access_token": token})
+    print(f"Token OK. Akaun: @{me.get('username')}")
     if os.environ.get("MODE") == "check":
-        me = call("GET", "me", {"fields": "id,username", "access_token": token})
-        print(f"Token OK. Akaun: @{me.get('username')} ({me.get('id')})")
         return 0
 
     dry = os.environ.get("DRY_RUN") == "1"
