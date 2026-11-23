@@ -90,8 +90,23 @@ def main():
         time.sleep(5)
         r = call("POST", "me/threads_publish",
                  {"creation_id": c["id"], "access_token": token})
-        posted[p["id"]] = {"status": "posted", "media_id": r.get("id"),
-                           "at": datetime.now(timezone.utc).isoformat()}
+        root = r.get("id")
+        rec = {"status": "posted", "media_id": root, "replies": [],
+               "at": datetime.now(timezone.utc).isoformat()}
+        # Optional reply chain: each reply goes under the previous one, in order.
+        parent = root
+        for txt in p.get("replies", []):
+            time.sleep(10)
+            rc = call("POST", "me/threads", {"media_type": "TEXT", "text": txt,
+                                              "reply_to_id": parent, "access_token": token})
+            time.sleep(5)
+            rr = call("POST", "me/threads_publish",
+                      {"creation_id": rc["id"], "access_token": token})
+            parent = rr.get("id")
+            rec["replies"].append(parent)
+        if not rec["replies"]:
+            rec.pop("replies")
+        posted[p["id"]] = rec
         sent += 1
 
     if not dry:
