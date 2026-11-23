@@ -53,8 +53,8 @@ def load(path, default):
 def main():
     token = os.environ.get("THREADS_ACCESS_TOKEN", "").strip()
     if not token:
-        print("THREADS_ACCESS_TOKEN belum diset. Skip.")
-        return 0
+        print("THREADS_ACCESS_TOKEN belum diset.")
+        return 1 if os.environ.get("MODE") == "check" else 0
 
     # Always verify the token first so a bad/expired token fails the run (visible in Actions).
     me = call("GET", "me", {"fields": "id,username", "access_token": token})
