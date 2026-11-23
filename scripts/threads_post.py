@@ -23,7 +23,7 @@ POSTED = os.path.join(ROOT, "threads", "posted.json")
 
 # A post is only sent if we are at most this late (GitHub cron can lag).
 # Older missed posts are skipped so we never dump a backlog at once.
-LATE_WINDOW = timedelta(hours=2)
+LATE_WINDOW = timedelta(hours=3)
 MAX_PER_RUN = 1
 
 
