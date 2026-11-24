@@ -38,3 +38,8 @@ Token Threads tamat 60 hari selepas dibuat. Bila tamat, post berhenti. Data dala
 3. Tunggu 1 minit. ✅ hijau = token OK. ❌ merah = ulang Bahagian A & B.
 
 Siap. Bagitahu Claude "dah renew" supaya peringatan seterusnya diset.
+
+---
+
+## Renew automatik (lepas setup sekali)
+GitHub renew token sendiri setiap **1hb dan 15hb** pukul 9 pagi (workflow **Renew token Threads**). Status (tanpa token) disimpan dalam `token_status.json`. Claude hantar notifikasi selepas setiap renew. Kalau gagal, ikut Bahagian A–B di atas.

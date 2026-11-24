@@ -1,0 +1,46 @@
+name: Renew token Threads
+
+on:
+  schedule:
+    - cron: "7 1 1,15 * *"   # 1hb & 15hb setiap bulan, 9:07 pagi MYT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            threads
+            scripts
+          sparse-checkout-cone-mode: false
+          filter: blob:none
+      - name: Renew token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          NEW_TOKEN_FILE: ${{ runner.temp }}/t
+        run: python3 scripts/threads_refresh.py
+      - name: Simpan token baru ke secret
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "GH_SECRETS_PAT belum diset"; exit 1; fi
+          gh secret set THREADS_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" < "${{ runner.temp }}/t"
+          rm -f "${{ runner.temp }}/t"
+      - name: Simpan status
+        if: always()
+        run: |
+          git add threads/token_status.json
+          if ! git diff --cached --quiet; then
+            git config user.name "tmxlab-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git commit -m "threads: status token"
+            git pull --rebase -q || true
+            git push
+          fi
