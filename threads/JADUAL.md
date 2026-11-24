@@ -1,6 +1,6 @@
 # Jadual Threads @tmxlab
 
-3 post sehari (10:00 pagi, 12:30 tengah hari, 8:30 malam). Setiap post ada satu topic tag. Post simpanan: `simpanan.json`.
+3 post sehari (10:00 pagi, 12:30 tengah hari, 8:30 malam). Panduan: `STRATEGI.md`.
 
 
 ## Isnin, 23 Nov 2026
@@ -24,7 +24,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Menswear | pique tu tenunan polo yang ada tekstur kecil2 macam jaring / sebab tu polo nampak lain dari tshirt biasa |
+| 10:00 | Malaysia Threads | rabu pagi, orang ofis. / benda pertama korang buat sampai meja kerja? kopi dulu ke buka email dulu? |
 | 12:30 | Behind The Scenes | jersi sublimation warna dia tak hilang walaupun basuh banyak kali / sebab dakwat dah jadi sebahagian dari kain, bukan lekat kat atas |
 | 20:30 | Fashion Threads | kenapa tee putih cepat kuning kat ketiak? / selalunya peluh dengan deodoran melekat kat kain. basuh cepat, jangan biar lama |
 
@@ -32,7 +32,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Malaysia Threads | baju yang korang pakai pergi mamak malam2 tu baju apa? / mesti ada satu yang memang untuk mamak je |
+| 10:00 | Usahawan Malaysia | soalan untuk owner brand kecil: / masalah paling besar sekarang, nak buat content ke nak cari customer? |
 | 12:30 | Brand Lokal Malaysia | apa yang buat korang berani beli brand lokal yang tak pernah dengar? / review, kawan recommend, atau tengok sendiri? |
 | 20:30 | Behind The Scenes | kena cerewet bila nama sendiri ada kat label / "made at TMX FACTORY" tu bukan hiasan |
 
@@ -40,7 +40,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Fashion Threads | tak pasti saiz bila beli online? / ambik tee yang paling muat kat rumah. ukur ketiak ke ketiak. banding dengan size chart |
+| 10:00 | Malaysia Threads | jumaat pagi. / siapa pakai baju melayu pergi kerja hari ni? angkat tangan |
 | 12:30 | Menswear | lelaki, berapa helai polo dalam almari korang sekarang? / jujur |
 | 20:30 | Behind The Scenes | cara aku check tee sebelum beli / pegang kain. tengok jahitan bahu. tarik leher sikit, tengok dia kembali ke tak |
 
@@ -48,7 +48,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Behind The Scenes | drop shoulder tu bila jahitan bahu jatuh bawah sikit dari bahu sebenar / sebab tu oversized nampak santai |
+| 10:00 | Usahawan Malaysia | soalan untuk yang buat content brand sendiri: / berapa lama korang ambil masa nak siapkan satu post? jujur |
 | 12:30 | Usahawan Malaysia | nak buat brand baju tapi takut stok tak habis? / ramai start dengan kuantiti kecil dulu. tak salah pun |
 | 20:30 | Fashion Threads | harga kami bukan murah / tapi takde bahagian dalam harga tu yang pergi kat orang tengah |
 
@@ -56,7 +56,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Brand Lokal Malaysia | apa yang buat korang percaya nak beli dari brand lokal yang korang tak kenal? |
+| 10:00 | Usahawan Malaysia | ahad pagi. / yang buat bisnes sendiri, hujung minggu korang kerja ke rehat? |
 | 12:30 | Behind The Scenes | QC kami check benda kecil dulu. benang terjulur, jahitan langkau, label / benda besar senang nampak. yang kecil tu customer perasan kat rumah |
 | 20:30 | Behind The Scenes | kilang kami bukan buat tshirt je / laser cut, sulaman, sublimation, uniform pun ada |
 
@@ -64,7 +64,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Fashion Threads | pengering panas tu musuh kain kapas / mengecut. jemur je kalau boleh |
+| 10:00 | Malaysia Threads | isnin pagi, hujung bulan. / soalan untuk orang ofis: gaji belum masuk, korang survive macam mana? |
 | 12:30 | Usahawan Malaysia | tee putih nak kekal putih / asingkan masa basuh. satu stokin merah cukup untuk rosakkan semua |
 | 20:30 | Behind The Scenes | korang nak tengok proses mana dalam kilang? / komen. yang paling ramai minta aku rakam |
 
@@ -72,7 +72,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Menswear | kolar polo dah lembik lepas beberapa kali basuh? / biasanya sebab kualiti rib dia. bukan salah korang |
+| 10:00 | Usahawan Malaysia | soalan untuk yang pernah tempah baju untuk company atau team: / berapa lama korang tunggu sampai baju siap? |
 | 12:30 | Streetwear | orang tanya kenapa kami tak letak logo besar / sebab aku nak baju tu jadi baju korang, bukan papan iklan kami |
 | 20:30 | Menswear | polo maroon tu kami panggil polo berpesak / kemas untuk ofis, tapi tak rasa macam pakai uniform |
 

@@ -1,0 +1,46 @@
+name: Threads komen
+
+on:
+  schedule:
+    - cron: "12,42 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "threads/outbox.json"
+      - "scripts/threads_replies.py"
+      - ".github/workflows/threads-replies.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: threads-replies
+  cancel-in-progress: false
+
+jobs:
+  replies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            threads
+            scripts
+          sparse-checkout-cone-mode: false
+          filter: blob:none
+      - name: Hantar balasan & kumpul komen baru
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python3 scripts/threads_replies.py
+      - name: Simpan
+        run: |
+          git add threads/inbox.json threads/outbox_sent.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git config user.name "tmxlab-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git commit -m "threads: komen"
+            git pull --rebase -q || true
+            git push
+          fi
