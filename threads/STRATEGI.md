@@ -21,6 +21,7 @@ Fail ini panduan untuk setiap post dan balasan. Ikut ini setiap kali tulis atau 
 4. Jangan reka cerita, nombor, customer. Jangan dedahkan strategi dalaman.
 5. Fokus satu niche: baju, kilang, bisnes pakaian. CTA (link kat bio) jarang, maks 1–2 seminggu.
 6. Kelakar boleh, tapi standard.
+7. Jangan buka post dengan nama hari ("rabu pagi", "jumaat pagi", "isnin" dll). Terus ke soalan.
 
 ## Balas komen (dibuat automatik)
 - Komen baru dikumpul ke `inbox.json`; balasan ditulis ke `outbox.json`, dihantar automatik.

@@ -24,7 +24,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Malaysia Threads | rabu pagi, orang ofis. / benda pertama korang buat sampai meja kerja? kopi dulu ke buka email dulu? |
+| 10:00 | Malaysia Threads | orang ofis, / benda pertama korang buat sampai meja kerja? kopi dulu ke buka email dulu? |
 | 12:30 | Behind The Scenes | jersi sublimation warna dia tak hilang walaupun basuh banyak kali / sebab dakwat dah jadi sebahagian dari kain, bukan lekat kat atas |
 | 20:30 | Fashion Threads | kenapa tee putih cepat kuning kat ketiak? / selalunya peluh dengan deodoran melekat kat kain. basuh cepat, jangan biar lama |
 
@@ -40,7 +40,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Malaysia Threads | jumaat pagi. / siapa pakai baju melayu pergi kerja hari ni? angkat tangan |
+| 10:00 | Malaysia Threads | siapa pakai baju melayu pergi kerja hari ni? angkat tangan |
 | 12:30 | Menswear | lelaki, berapa helai polo dalam almari korang sekarang? / jujur |
 | 20:30 | Behind The Scenes | cara aku check tee sebelum beli / pegang kain. tengok jahitan bahu. tarik leher sikit, tengok dia kembali ke tak |
 
@@ -56,7 +56,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Usahawan Malaysia | ahad pagi. / yang buat bisnes sendiri, hujung minggu korang kerja ke rehat? |
+| 10:00 | Usahawan Malaysia | yang buat bisnes sendiri, / hujung minggu korang kerja ke rehat? |
 | 12:30 | Behind The Scenes | QC kami check benda kecil dulu. benang terjulur, jahitan langkau, label / benda besar senang nampak. yang kecil tu customer perasan kat rumah |
 | 20:30 | Behind The Scenes | kilang kami bukan buat tshirt je / laser cut, sulaman, sublimation, uniform pun ada |
 
@@ -64,7 +64,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Malaysia Threads | isnin pagi, hujung bulan. / soalan untuk orang ofis: gaji belum masuk, korang survive macam mana? |
+| 10:00 | Malaysia Threads | soalan untuk orang ofis: / hujung bulan, gaji belum masuk. korang survive macam mana? |
 | 12:30 | Usahawan Malaysia | tee putih nak kekal putih / asingkan masa basuh. satu stokin merah cukup untuk rosakkan semua |
 | 20:30 | Behind The Scenes | korang nak tengok proses mana dalam kilang? / komen. yang paling ramai minta aku rakam |
 
@@ -89,7 +89,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Streetwear | outfit paling selamat dalam dunia / tee hitam, jeans, kasut putih. setuju? |
-| 12:30 | Malaysia Threads | baju kerja hari khamis / dah mula santai ke tunggu jumaat? |
+| 12:30 | Malaysia Threads | baju kerja korang sekarang / formal hari-hari, atau ada hari yang memang santai? |
 | 20:30 | Fashion Threads | cropped bukan untuk perempuan je / cuba sekali dengan seluar high waist. pastu baru judge |
 
 ## Jumaat, 04 Dec 2026
