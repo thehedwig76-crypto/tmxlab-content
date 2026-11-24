@@ -85,8 +85,11 @@ def main():
         print(f"post: {p['id']} :: {p['text'][:60]!r}")
         if dry:
             continue
-        c = call("POST", "me/threads",
-                 {"media_type": "TEXT", "text": p["text"], "access_token": token})
+        params = {"media_type": "TEXT", "text": p["text"], "access_token": token}
+        tag = (p.get("topic_tag") or "").replace(".", "").replace("&", "").strip()[:50]
+        if tag:
+            params["topic_tag"] = tag  # community/topic tag (one per post)
+        c = call("POST", "me/threads", params)
         time.sleep(5)
         r = call("POST", "me/threads_publish",
                  {"creation_id": c["id"], "access_token": token})
