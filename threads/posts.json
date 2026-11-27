@@ -120,12 +120,11 @@
  {
   "id": "2026-11-28_2030",
   "time": "2026-11-28T20:30:00+08:00",
-  "text": "ramai tak tahu, kilang kami dulu bukan nama TMX FACTORY.\n\ndulu nama dia TSHIRTMAKER.COX",
-  "topic_tag": "Usahawan Malaysia",
+  "text": "seluar jeans ada paku tembaga kecil kat bucu poket.\n\nasal dia dari seorang tukang jahit yang customer dia asyik koyak poket seluar kerja.",
+  "topic_tag": "Fashion Threads",
   "replies": [
-   "nama tu terus terang. buat tshirt.",
-   "sekarang kerja dah bukan tshirt je. jahit, laser cut, sulaman, uniform.",
-   "korang yang ada bisnes, pernah tukar nama tak?"
+   "dia letak rivet tembaga kat bucu yang selalu koyak. masalah selesai.",
+   "sampai sekarang jeans masih ada rivet tu. dari masalah kecil, jadi ciri yang kekal"
   ]
  },
  {
@@ -137,8 +136,8 @@
  {
   "id": "2026-11-29_1230",
   "time": "2026-11-29T12:30:00+08:00",
-  "text": "QC kami check benda kecil dulu. benang terjulur, jahitan langkau, label\n\nbenda besar senang nampak. yang kecil tu customer perasan kat rumah",
-  "topic_tag": "Behind The Scenes"
+  "text": "nak tahu tee tu kapas ke bukan?\n\nkapas rasa sejuk dan serap peluh. polyester rasa licin sikit",
+  "topic_tag": "Fashion Threads"
  },
  {
   "id": "2026-11-29_2030",
@@ -185,7 +184,7 @@
  {
   "id": "2026-12-01_1230",
   "time": "2026-12-01T12:30:00+08:00",
-  "text": "orang tanya kenapa kami tak letak logo besar\n\nsebab aku nak baju tu jadi baju korang, bukan papan iklan kami",
+  "text": "logo besar kat dada, atau logo kecil, atau takde langsung?\n\nkorang pilih mana",
   "topic_tag": "Streetwear"
  },
  {
@@ -299,8 +298,12 @@
  {
   "id": "2026-12-06_2030",
   "time": "2026-12-06T20:30:00+08:00",
-  "text": "logo TMX LAB tu chameleon pegang jarum.\n\nada yang perasan? cuba teka kenapa chameleon",
-  "topic_tag": "Brand Lokal Malaysia"
+  "text": "kasut Converse yang semua orang kenal tu ada nama Chuck Taylor kat tepi.\n\nChuck Taylor tu bukan pereka. dia pemain bola keranjang yang jadi jurujual kasut tu.",
+  "topic_tag": "Streetwear",
+  "replies": [
+   "dia jual sambil buat klinik bola keranjang. lama-lama nama dia terus masuk kat kasut",
+   "kadang orang yang paling percaya dengan barang, itu yang paling pandai cerita pasal dia"
+  ]
  },
  {
   "id": "2026-12-07_1000",
@@ -358,12 +361,11 @@
  {
   "id": "2026-12-09_2030",
   "time": "2026-12-09T20:30:00+08:00",
-  "text": "TMX LAB dah daftar cap dagangan kat MyIPO.",
-  "topic_tag": "Usahawan Malaysia",
+  "text": "jaket bomber asalnya untuk juruterbang.\n\nkokpit kapal terbang dulu sejuk gila. jaket kena tebal, pendek supaya tak tersangkut masa duduk.",
+  "topic_tag": "Streetwear",
   "replies": [
-   "nampak macam urusan kertas je.",
-   "tapi nama brand tu aset. kalau tak daftar, susah nak pertahankan bila ada orang guna nama sama.",
-   "owner brand lokal, nama brand korang dah daftar belum?"
+   "warna oren kat dalam jaket tu pun ada sebab. kalau terhempas, terbalikkan jaket supaya senang nampak",
+   "sekarang jadi jaket lepak. tak ramai tahu sejarah dia"
   ]
  },
  {
@@ -540,7 +542,7 @@
  {
   "id": "2026-12-19_1000",
   "time": "2026-12-19T10:00:00+08:00",
-  "text": "satu warna polo yang semua lelaki patut ada\n\naku undi maroon. mungkin bias sikit. korang?",
+  "text": "satu warna polo yang semua lelaki patut ada\n\nkorang undi warna apa?",
   "topic_tag": "Menswear"
  },
  {
@@ -567,8 +569,8 @@
  {
   "id": "2026-12-20_1230",
   "time": "2026-12-20T12:30:00+08:00",
-  "text": "kalau TMX LAB buat satu warna baru tahun depan\n\nkorang nak warna apa?",
-  "topic_tag": "Brand Lokal Malaysia"
+  "text": "warna baju yang korang rasa paling 'selamat' untuk semua majlis?",
+  "topic_tag": "Fashion Threads"
  },
  {
   "id": "2026-12-20_2030",
@@ -732,17 +734,17 @@
  {
   "id": "2026-12-29_1230",
   "time": "2026-12-29T12:30:00+08:00",
-  "text": "brand kecil hidup sebab orang share\n\nterima kasih yang tolong share TMX LAB tahun ni",
-  "topic_tag": "Brand Lokal Malaysia"
+  "text": "kalau boleh pakai satu jenis baju je setahun\n\ntee, polo, atau kemeja?",
+  "topic_tag": "Fashion Threads"
  },
  {
   "id": "2026-12-29_2030",
   "time": "2026-12-29T20:30:00+08:00",
-  "text": "29 Disember 2019. hari syarikat pertama aku didaftarkan.",
-  "topic_tag": "Usahawan Malaysia",
+  "text": "kain pelikat yang orang kita pakai pergi surau tu, nama dia dikatakan dari Pulicat.\n\nsatu pekan kat pantai India yang dulu terkenal dengan kain tenun.",
+  "topic_tag": "Malaysia Threads",
   "replies": [
-   "dari printing, sampai pembuatan pakaian.",
-   "7 tahun hari ni. terima kasih yang ikut perjalanan ni"
+   "dari pelabuhan India, jadi kain wajib kat rumah orang Malaysia",
+   "korang ada kain pelikat kegemaran? corak apa?"
   ]
  },
  {

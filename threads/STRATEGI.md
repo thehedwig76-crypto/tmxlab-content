@@ -21,6 +21,8 @@ Fail ini panduan untuk setiap post dan balasan. Ikut ini setiap kali tulis atau 
 4. Jangan reka cerita, nombor, customer. Jangan dedahkan strategi dalaman.
 5. Fokus satu niche: baju, kilang, bisnes pakaian.
 8. JANGAN menjual. Tiada "link kat bio", harga, "cuba produk kami". Threads untuk cerita dan perbualan; orang cari brand sendiri melalui profil. (Nasihat pengamal branding, 27 Nov.) Kalau orang tanya nak beli, baru beri link dalam balasan.
+9. Mulai 28 Nov: post tidak sebut TMX Factory, kilang kami, atau syarikat. Gaya 'sharing' — cerita, sejarah pakaian, ilmu kain, soalan. Conversion datang dari profil (bio jelas + link + post pin), bukan dari post.
+10. Teknik cerita: ayat pertama jadi hook; setiap ayat sambung ayat sebelum; buang cerita sampingan; sambung dengan reply sendiri; tutup dengan soalan.
 6. Kelakar boleh, tapi standard.
 7. Jangan buka post dengan nama hari ("rabu pagi", "jumaat pagi", "isnin" dll). Terus ke soalan.
 

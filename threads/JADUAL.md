@@ -1,6 +1,6 @@
 # Jadual Threads @tmxlab
 
-3 post sehari (10:00 pagi, 12:30 tengah hari, 8:30 malam = cerita). Tiada jualan. Panduan: `STRATEGI.md`.
+3 post sehari (10:00, 12:30, 8:30 malam = cerita). Tiada jualan, tiada sebut syarikat. Panduan: `STRATEGI.md`.
 
 
 ## Isnin, 23 Nov 2026
@@ -50,14 +50,14 @@
 |---|---|---|
 | 10:00 | Usahawan Malaysia | soalan untuk yang buat content brand sendiri: / berapa lama korang ambil masa nak siapkan satu post? jujur |
 | 12:30 | Usahawan Malaysia | nak buat brand baju tapi takut stok tak habis? / ramai start dengan kuantiti kecil dulu. tak salah pun |
-| 20:30 | Usahawan Malaysia | ramai tak tahu, kilang kami dulu bukan nama TMX FACTORY. / dulu nama dia TSHIRTMAKER.COX<br>↳ reply 1: nama tu terus terang. buat tshirt.<br>↳ reply 2: sekarang kerja dah bukan tshirt je. jahit, laser cut, sulaman, uniform.<br>↳ reply 3: korang yang ada bisnes, pernah tukar nama tak? |
+| 20:30 | Fashion Threads | seluar jeans ada paku tembaga kecil kat bucu poket. / asal dia dari seorang tukang jahit yang customer dia asyik koyak poket seluar kerja.<br>↳ reply 1: dia letak rivet tembaga kat bucu yang selalu koyak. masalah selesai.<br>↳ reply 2: sampai sekarang jeans masih ada rivet tu. dari masalah kecil, jadi ciri yang kekal |
 
 ## Ahad, 29 Nov 2026
 
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Usahawan Malaysia | yang buat bisnes sendiri, / hujung minggu korang kerja ke rehat? |
-| 12:30 | Behind The Scenes | QC kami check benda kecil dulu. benang terjulur, jahitan langkau, label / benda besar senang nampak. yang kecil tu customer perasan kat rumah |
+| 12:30 | Fashion Threads | nak tahu tee tu kapas ke bukan? / kapas rasa sejuk dan serap peluh. polyester rasa licin sikit |
 | 20:30 | Behind The Scenes | sehelai tee yang korang pakai sekarang, perjalanan dia panjang.<br>↳ reply 1: mula dari roll kain. kain biasanya dibiar 'rehat' dulu sebelum potong, supaya tak tertarik masa jahit.<br>↳ reply 2: lepas tu potong ikut pattern. berlapis-lapis kain, sekali jalan.<br>↳ reply 3: masuk line jahit. bahu, lengan, sisi, kolar.<br>↳ reply 4: QC. benang terjulur, jahitan langkau, ukuran.<br>↳ reply 5: baru lipat, bungkus, sampai tangan korang.<br>↳ reply 6: lain kali pakai tee, ingat berapa tangan yang sentuh dia dulu |
 
 ## Isnin, 30 Nov 2026
@@ -73,7 +73,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Usahawan Malaysia | soalan untuk yang pernah tempah baju untuk company atau team: / berapa lama korang tunggu sampai baju siap? |
-| 12:30 | Streetwear | orang tanya kenapa kami tak letak logo besar / sebab aku nak baju tu jadi baju korang, bukan papan iklan kami |
+| 12:30 | Streetwear | logo besar kat dada, atau logo kecil, atau takde langsung? / korang pilih mana |
 | 20:30 | Fashion Threads | tshirt asalnya baju dalam askar. / lepas perang, baru orang berani pakai kat luar. zaman tu dikira tak sopan.<br>↳ reply 1: sekarang ada orang pakai tshirt pergi kenduri. zaman berubah |
 
 ## Rabu, 02 Dec 2026
@@ -114,7 +114,7 @@
 |---|---|---|
 | 10:00 | Brand Lokal Malaysia | tag satu brand lokal yang korang rasa layak lebih dikenali |
 | 12:30 | Behind The Scenes | kenapa jahitan bahu penting / sebab bahu yang tanggung berat baju. jahitan lari, baju terus nampak senget |
-| 20:30 | Brand Lokal Malaysia | logo TMX LAB tu chameleon pegang jarum. / ada yang perasan? cuba teka kenapa chameleon |
+| 20:30 | Streetwear | kasut Converse yang semua orang kenal tu ada nama Chuck Taylor kat tepi. / Chuck Taylor tu bukan pereka. dia pemain bola keranjang yang jadi jurujual kasut tu.<br>↳ reply 1: dia jual sambil buat klinik bola keranjang. lama-lama nama dia terus masuk kat kasut<br>↳ reply 2: kadang orang yang paling percaya dengan barang, itu yang paling pandai cerita pasal dia |
 
 ## Isnin, 07 Dec 2026
 
@@ -138,7 +138,7 @@
 |---|---|---|
 | 10:00 | Fashion Threads | berapa kali korang ulang baju sama dalam seminggu? / takde siapa perasan pun sebenarnya |
 | 12:30 | Malaysia Threads | baju gym dengan baju lepak / korang asingkan ke guna sama je? |
-| 20:30 | Usahawan Malaysia | TMX LAB dah daftar cap dagangan kat MyIPO.<br>↳ reply 1: nampak macam urusan kertas je.<br>↳ reply 2: tapi nama brand tu aset. kalau tak daftar, susah nak pertahankan bila ada orang guna nama sama.<br>↳ reply 3: owner brand lokal, nama brand korang dah daftar belum? |
+| 20:30 | Streetwear | jaket bomber asalnya untuk juruterbang. / kokpit kapal terbang dulu sejuk gila. jaket kena tebal, pendek supaya tak tersangkut masa duduk.<br>↳ reply 1: warna oren kat dalam jaket tu pun ada sebab. kalau terhempas, terbalikkan jaket supaya senang nampak<br>↳ reply 2: sekarang jadi jaket lepak. tak ramai tahu sejarah dia |
 
 ## Khamis, 10 Dec 2026
 
@@ -216,7 +216,7 @@
 
 | Masa | Tag | Post |
 |---|---|---|
-| 10:00 | Menswear | satu warna polo yang semua lelaki patut ada / aku undi maroon. mungkin bias sikit. korang? |
+| 10:00 | Menswear | satu warna polo yang semua lelaki patut ada / korang undi warna apa? |
 | 12:30 | Behind The Scenes | satu salah faham pasal kilang baju / orang ingat mesin buat semua. sebenarnya tangan orang yang buat kebanyakan |
 | 20:30 | Malaysia Threads | cekak musang ke teluk belanga? / cekak musang ada kolar tegak. teluk belanga leher bulat, tepi dia bersulam tulang belut.<br>↳ reply 1: korang team mana? |
 
@@ -225,7 +225,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Streetwear | share outfit korang hari ni / tak kisah brand apa |
-| 12:30 | Brand Lokal Malaysia | kalau TMX LAB buat satu warna baru tahun depan / korang nak warna apa? |
+| 12:30 | Fashion Threads | warna baju yang korang rasa paling 'selamat' untuk semua majlis? |
 | 20:30 | Fashion Threads | huruf YKK kat zip beg dan jaket tu nama syarikat Jepun. / Yoshida Kogyo Kabushikigaisha. dari zip kecil, jadi nama yang ada kat merata dunia |
 
 ## Isnin, 21 Dec 2026
@@ -297,8 +297,8 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Fashion Threads | satu baju yang korang beli tahun ni dan memang berbaloi? |
-| 12:30 | Brand Lokal Malaysia | brand kecil hidup sebab orang share / terima kasih yang tolong share TMX LAB tahun ni |
-| 20:30 | Usahawan Malaysia | 29 Disember 2019. hari syarikat pertama aku didaftarkan.<br>↳ reply 1: dari printing, sampai pembuatan pakaian.<br>↳ reply 2: 7 tahun hari ni. terima kasih yang ikut perjalanan ni |
+| 12:30 | Fashion Threads | kalau boleh pakai satu jenis baju je setahun / tee, polo, atau kemeja? |
+| 20:30 | Malaysia Threads | kain pelikat yang orang kita pakai pergi surau tu, nama dia dikatakan dari Pulicat. / satu pekan kat pantai India yang dulu terkenal dengan kain tenun.<br>↳ reply 1: dari pelabuhan India, jadi kain wajib kat rumah orang Malaysia<br>↳ reply 2: korang ada kain pelikat kegemaran? corak apa? |
 
 ## Rabu, 30 Dec 2026
 
