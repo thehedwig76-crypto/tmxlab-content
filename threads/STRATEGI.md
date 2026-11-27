@@ -12,7 +12,7 @@ Fail ini panduan untuk setiap post dan balasan. Ikut ini setiap kali tulis atau 
 |---|---|
 | 10:00 pagi | Soalan untuk komuniti Malaysia pagi hari kerja: masalah kerja/ofis, masalah owner brand (content, customer, stok). Format "soalan untuk yang ___". |
 | 12:30 tengah hari | Tips atau pendapat ringkas pasal baju/kain/kilang yang orang nak setuju atau bantah. |
-| 8:30 malam | Cerita/siri Hasnan (post utama + reply berantai + soalan penutup). Idea dan ayat dari Hasnan sahaja. |
+| 8:30 malam | Cerita: siri Hasnan (idea & ayat dia), cerita proses kilang, atau sejarah/fakta pakaian. Bila Hasnan hantar cerita, ganti slot ini. Asal: (post utama + reply berantai + soalan penutup). Idea dan ayat dari Hasnan sahaja. |
 
 ## Peraturan post
 1. Setiap post WAJIB ada satu `topic_tag` yang spesifik (Usahawan Malaysia, Malaysia Threads, Fashion Threads, Menswear, Streetwear, Behind The Scenes, Brand Lokal Malaysia).
