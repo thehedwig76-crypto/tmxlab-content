@@ -241,7 +241,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Malaysia Threads | tee cropped bukan pendek sangat / hujung dia jatuh kat pinggang seluar. tu je |
-| 12:30 | Fashion Threads | pernah beli baju online, sampai rumah saiz lari? / ukur dulu, tengok carta saiz, baru checkout |
+| 12:30 | Fashion Threads | pernah beli baju online, sampai rumah saiz lari? / ukur baju yang paling muat kat rumah, banding dengan carta saiz dulu |
 | 20:30 | Menswear | kain pique polo ada tekstur macam jaring kecil. / sebab tu polo lagi bernafas dari kemeja biasa |
 
 ## Rabu, 23 Dec 2026
