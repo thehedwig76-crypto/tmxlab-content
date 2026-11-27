@@ -97,7 +97,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Fashion Threads | brand kecil tak perlu viral / perlu orang yang beli, pakai, pastu beli lagi |
-| 12:30 | Brand Lokal Malaysia | brand ni kecil lagi / tapi baju dia dijahit kat kilang yang dah 15 tahun jahit baju orang. link kat bio kalau nak tengok |
+| 12:30 | Behind The Scenes | kenapa leher tee cepat longgar? / biasanya sebab rib kolar nipis atau jahitan longgar |
 | 20:30 | Behind The Scenes | nama lama kami TSHIRTMAKER.COX / sekarang TMX FACTORY. orang dengan mesin dalam kilang masih sama |
 
 ## Sabtu, 05 Dec 2026
@@ -153,7 +153,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Fashion Threads | jangan gosok terus atas print / terbalikkan baju dulu. print tak cair, tak melekat |
-| 12:30 | Brand Lokal Malaysia | tak payah tunggu sale untuk cuba brand lokal / ambil satu dulu, rasa sendiri. link kat bio |
+| 12:30 | Behind The Scenes | nak tahu kain tebal ke nipis tanpa tengok label? / angkat ke arah lampu. kalau nampak jari tembus, nipis |
 | 20:30 | Brand Lokal Malaysia | korang follow brand lokal mana sekarang? / nak kenal sikit siapa lagi yang buat betul2 |
 
 ## Sabtu, 12 Dec 2026
@@ -209,8 +209,8 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Fashion Threads | logo besar kat dada / atau takde langsung? korang pilih mana |
-| 12:30 | Streetwear | nak cuba oversized kami / 290 gsm. link kat bio, carta saiz pun ada |
-| 20:30 | Brand Lokal Malaysia | kalau beli TMX LAB dan rasa tak puas hati, bagitahu aku terus / komen ke DM ke. aku baca semua |
+| 12:30 | Fashion Threads | cotton 100% ke cvc? / cotton lagi serap peluh. cvc lagi tahan kedut. pilih ikut hari korang |
+| 20:30 | Fashion Threads | baju paling lama dalam almari korang / umur berapa dah? |
 
 ## Sabtu, 19 Dec 2026
 
@@ -257,7 +257,7 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Fashion Threads | basic tak sama dengan murah / basic yang bagus tu yang susah cari |
-| 12:30 | Brand Lokal Malaysia | hujung tahun ni dah beli baju untuk diri sendiri? / reward sikit tak salah. link kat bio |
+| 12:30 | Brand Lokal Malaysia | satu benda yang brand lokal kena improve? |
 | 20:30 | Usahawan Malaysia | buat brand sorang2 memang penat / tapi takpe. sikit2 lama2 jadi bukit |
 
 ## Jumaat, 25 Dec 2026
@@ -305,5 +305,5 @@
 | Masa | Tag | Post |
 |---|---|---|
 | 10:00 | Fashion Threads | esok last hari 2026 / baju apa nak pakai tutup tahun? |
-| 12:30 | Brand Lokal Malaysia | nak mula 2027 dengan baju baru? / oversized, cropped, polo ada kat tmxlabstore.com |
+| 12:30 | Malaysia Threads | hari kerja terakhir tahun ni untuk ramai / pakai yang paling selesa je |
 | 20:30 | Brand Lokal Malaysia | 2027 korang nak tengok apa dari TMX LAB? / komen. aku baca semua, aku catat |

@@ -19,7 +19,8 @@ Fail ini panduan untuk setiap post dan balasan. Ikut ini setiap kali tulis atau 
 2. Panggil satu kelompok orang, bukan semua orang. Mesti ada sebab untuk reply.
 3. Ayat santai, huruf kecil, BM pasar. Tiada ayat "AI", tiada hashtag, tiada emoji berlebihan.
 4. Jangan reka cerita, nombor, customer. Jangan dedahkan strategi dalaman.
-5. Fokus satu niche: baju, kilang, bisnes pakaian. CTA (link kat bio) jarang, maks 1–2 seminggu.
+5. Fokus satu niche: baju, kilang, bisnes pakaian.
+8. JANGAN menjual. Tiada "link kat bio", harga, "cuba produk kami". Threads untuk cerita dan perbualan; orang cari brand sendiri melalui profil. (Nasihat pengamal branding, 27 Nov.) Kalau orang tanya nak beli, baru beri link dalam balasan.
 6. Kelakar boleh, tapi standard.
 7. Jangan buka post dengan nama hari ("rabu pagi", "jumaat pagi", "isnin" dll). Terus ke soalan.
 
